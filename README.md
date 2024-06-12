@@ -2,8 +2,6 @@
 https://github.com/kushmodh/Fakebook-frontend
 <br/>
 
-![image](https://github.com/kushmodh/Fakebook-frontend)
-
 # fakebook(Backend)
 
 ## Description
